@@ -1,4 +1,4 @@
 {
-    "version": "1.0.0-a.2",
-    "patchNotes": ["Closed engine release"]
+    "version": "1.0.0-b.1",
+    "patchNotes": ["New chart editor", "Song events", "Dynamic strums (simple extra keys)", "New sustains miss system", "New Hscript functions", "Hscript imports and StringTools" ,"Fixed some crashes", "Improved cache clearing", "New transitions system", "Character, Note and Event list sorting"]
 }
