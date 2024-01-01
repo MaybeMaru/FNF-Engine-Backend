@@ -1,4 +1,17 @@
 {
-    "version": "1.0.0-b.1",
-    "patchNotes": ["New chart editor", "Song events", "Dynamic strums (simple extra keys)", "New sustains miss system", "New Hscript functions", "Hscript imports and StringTools" ,"Fixed some crashes", "Improved cache clearing", "New transitions system", "Character, Note and Event list sorting"]
+    "version": "1.0.0-b.2",
+    "patchNotes": [
+        "Brand new sustains system",
+        "Moved to hscript-improved",
+        "Packed events support",
+        "Global mod folders",
+        "New and improved mod folders system",
+        "Osu and Quaver zip support",
+        "New cutscene manager system",
+        "Multithreading freeplay music loading",
+        "Faster preloading",
+        "runCode event",
+        "Optional song meta json",
+        "General polish"
+    ]
 }
